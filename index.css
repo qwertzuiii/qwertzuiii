@@ -1,0 +1,36 @@
+.cntr {
+    align-items: center;
+    text-align: center;
+    background-color: rgb(10, 20, 10);
+    color: white;
+}
+
+#bahdi {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#headtitle {
+    text-decoration: none;
+    color: rgb(155, 202, 155);
+}
+
+.headlinks {
+    text-decoration: none;
+    color: rgb(42, 133, 207);
+}
+
+.repolinks {
+    text-decoration: none;
+}
+
+.repolinks#public {
+    color: rgb(116, 207, 157);
+}
+
+.repolinks#private {
+    color: rgb(57, 104, 78);
+}
+
+.test {
+    display: block;
+}
