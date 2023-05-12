@@ -21,6 +21,7 @@
 
 .repolinks {
     text-decoration: none;
+    user-select: none;
 }
 
 .repolinks#public {
@@ -33,4 +34,9 @@
 
 .test {
     display: block;
+}
+
+div#hitCount {
+    color: transparent;
+    user-select: none;
 }
